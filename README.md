@@ -1,4 +1,11 @@
 
+# 注意です
+
+* oTreeは*3シリーズ*を使います．
+* 5シリーズ（oTree Lite or 現行のシリーズ）は使わないので，ご注意ください．
+  * 現行版への対応も予定していますが，この数年の蓄積をこれから1-2年は使ったほうが良い＆その間に5シリーズへの準備をしておきますという判断です．
+
+
 # はじめに
 
 * 当日は以下のセッティングができていることを前提に，話を進めていきます．
@@ -36,39 +43,36 @@
 
 ### No.0：概要
 
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/0_outline)
+* ### [コチラ](https://github.com/akrgt/otree_2021tamagawa/tree/master/0_outline)
 
 ### No.1：質問紙
 
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/1_Questionnaire)
+* ### [コチラ](https://github.com/akrgt/otree_2021tamagawa/tree/master/1_Questionnaire)
 
 ### No.2：最終提案ゲーム
 
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/2_UG)
+* ### [コチラ](https://github.com/akrgt/otree_2021tamagawa/tree/master/2_UG)
 
 ### No.3：独裁者ゲーム
 
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/3_DG)
+* ### [コチラ](https://github.com/akrgt/otree_2021tamagawa/tree/master/3_DG)
 
 ### No.4：公共財ゲーム
 
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/4_PG)
+* ### [コチラ](https://github.com/akrgt/otree_2021tamagawa/tree/master/4_PG)
 
-### No.5：公共財ゲームの応用
-
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/5_PG_adv)
 
 ### No.6：もともと用意されているゲームを使う
 
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/6_GAMES)
+* ### [コチラ](https://github.com/akrgt/otree_2021tamagawa/tree/master/6_GAMES)
 
 ### No.7：AWSの設定を行う
 
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/7_AWS)
+* ### [コチラ](https://github.com/akrgt/otree_2021tamagawa/tree/master/7_AWS)
 
 ### その他補足事項
 
-* ### [コチラ](https://github.com/akrgt/otree_2020titech/tree/master/etc)
+* ### [コチラ](https://github.com/akrgt/otree_2021tamagawa/tree/master/etc)
 
 
 
