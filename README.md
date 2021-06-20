@@ -101,6 +101,8 @@
 * [公式オンラインマニュアル](https://otree.readthedocs.io/en/latest/)
 * [oTreeのオンラインマニュアルを和訳したり何だりしています．](https://akrgt.gitbook.io/otree-jp/)
   * 最近少し手が回らずサボリ気味です．修正作業を行っておりますので，見にくい点・わかりにくい点などがあってもお許しください
+* [実はoTree開発者より和訳の依頼を受けました](https://otree.readthedocs.io/en/latest/)
+  * 週1程度でのアップデートをしていきます．頑張ります．
 
 ## Django関連資料
 
